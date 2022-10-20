@@ -6,36 +6,36 @@ Symbontology.parse("/Users/ahi.maria/Documents/GitHub/KRKE/SymbOntology/ontology
 
 CompetencyQuestion1 = '''PREFIX symbo:<https://github.com/giorgimariachiara/KRKE/main/SymbOntology/SymbOntology.owl#> 
 SELECT ?Line 
-WHERE { ?Line symbo:express symbo:Spleen}
+WHERE { ?Line symbo:expresses symbo:Spleen}
 '''
 CompetencyQuestion2 = '''PREFIX symbo:<https://github.com/giorgimariachiara/KRKE/main/SymbOntology/SymbOntology.owl#>
 SELECT ?Line 
-WHERE {?Line symbo:express symbo:Musicality} 
+WHERE {?Line symbo:expresses symbo:Musicality} 
 '''
 
 CompetencyQuestion3 = '''PREFIX symbo:<https://github.com/giorgimariachiara/KRKE/main/SymbOntology/SymbOntology.owl#>
 SELECT ?Line 
-WHERE {?Line symbo:express symbo:Vague} 
+WHERE {?Line symbo:expresses symbo:Vague} 
 '''
 
 CompetencyQuestion4 = '''PREFIX symbo:<https://github.com/giorgimariachiara/KRKE/main/SymbOntology/SymbOntology.owl#>
 SELECT ?Line 
-WHERE {?Line symbo:express symbo:Journey} 
+WHERE {?Line symbo:expresses symbo:Journey} 
 '''
 
 CompetencyQuestion5 = '''PREFIX symbo:<https://github.com/giorgimariachiara/KRKE/main/SymbOntology/SymbOntology.owl#>
 SELECT ?Line 
-WHERE {?Line symbo:express symbo:SeerPoet} 
+WHERE {?Line symbo:expresses symbo:SeerPoet} 
 '''
 
 CompetencyQuestion6 = '''PREFIX symbo:<https://github.com/giorgimariachiara/KRKE/main/SymbOntology/SymbOntology.owl#>
 SELECT ?Line 
-WHERE {?Line symbo:express symbo:Escape} 
+WHERE {?Line symbo:expresses symbo:Escape} 
 '''
 
 CompetencyQuestion7 = '''PREFIX symbo:<https://github.com/giorgimariachiara/KRKE/main/SymbOntology/SymbOntology.owl#>
 SELECT ?Line 
-WHERE {?Line symbo:express symbo:Purity} 
+WHERE {?Line symbo:expresses symbo:Purity} 
 '''
 
 CompetencyQuestion8 = '''PREFIX symbo:<https://github.com/giorgimariachiara/KRKE/main/SymbOntology/SymbOntology.owl#>
